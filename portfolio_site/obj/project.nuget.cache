@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QDDURvz0N2Y/GT0oPJWW+Y5DDKAUgOeTWE4HpiIb7IE4ECvi5eSbOC2b4NCriIxNcUXWjy2KroBFIFNzrFPWUQ==",
+  "dgSpecHash": "TH4yA9cgOOxmhSf1IO3dqdfiTUyqfi/sBXD10wQ7BIVoBAHocyNn1ZPi0PaB+4RQ8WOGYxuqgv7ckH7bX20X5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Domonic\\GitHubREPOS\\portfolio_site\\portfolio_site.csproj",
+  "projectFilePath": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\portfolio_site.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Domonic\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512",
     "C:\\Users\\Domonic\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.3\\microsoft.aspnetcore.authorization.7.0.3.nupkg.sha512",

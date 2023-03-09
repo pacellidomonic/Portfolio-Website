@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Domonic\\GitHubREPOS\\portfolio_site\\portfolio_site.csproj": {}
+    "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\portfolio_site.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Domonic\\GitHubREPOS\\portfolio_site\\portfolio_site.csproj": {
+    "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\portfolio_site.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Domonic\\GitHubREPOS\\portfolio_site\\portfolio_site.csproj",
+        "projectUniqueName": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\portfolio_site.csproj",
         "projectName": "portfolio_site",
-        "projectPath": "C:\\Users\\Domonic\\GitHubREPOS\\portfolio_site\\portfolio_site.csproj",
+        "projectPath": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\portfolio_site.csproj",
         "packagesPath": "C:\\Users\\Domonic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Domonic\\GitHubREPOS\\portfolio_site\\obj\\",
+        "outputPath": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
