@@ -1,0 +1,18 @@
+.title {
+    text-align: center;
+    border-bottom: 2px solid rgb(175, 175, 175);
+    margin-bottom: 20px;
+    margin-top: 13px;
+}
+th, td {
+    padding: 4px;
+    text-align: left;
+}
+th {
+    background-color: #dbdbdb;
+    color: #1d1d1d;
+    font-weight: bold;
+}
+td {
+    background-color: rgb(255, 255, 255);
+}

@@ -1,0 +1,31 @@
+.title {
+    text-align: center;
+    border-bottom: 2px solid rgb(175, 175, 175);
+    margin-bottom: 20px;
+    margin-top: 13px;
+}
+h2 {
+    font-weight: bold;
+    font-size: 25px;
+    border-bottom: 1px solid rgb(34, 34, 34);
+    margin-bottom: 15px;
+}
+.company-name {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+.job-title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 2px;
+    font-style: italic;
+}
+p {
+    margin-bottom: 10px;
+}
+.resume-button {
+     float: left;
+     margin-top: 50px;
+     margin-right: 50px;
+}

@@ -1,0 +1,76 @@
+.title {
+    text-align: center;
+    border-bottom: 2px solid rgb(175, 175, 175);
+    margin-bottom: 20px;
+    margin-top: 13px;
+}
+.about-info {
+    color: rgb(0, 0, 0);
+}
+.colored-text {
+    color: red;
+}
+.header-text {
+    float: left;
+    color: #000000;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+}
+.email-link {
+    text-decoration: none;
+}
+
+/*bubbles conatiner*/
+.bubbles {
+    height: 33.3%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.bubble-name {
+    font-weight: bold;
+}
+.no-margin {
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+.bubble-left-top, .bubble-center-top, .bubble-right-top, .bubble-bottom-left{
+    width: 23.5%;
+    margin-right: 10px;
+    padding: 20px;
+    margin-bottom: 12px;
+    border-radius: 15px;
+    height: 220px;
+    border-bottom: 5px solid rgb(0, 0, 0);
+}
+.bubble-left-top {
+    background-image: linear-gradient(rgb(150, 150, 150), rgb(123, 135, 148));
+    text-align: center;
+}
+.bubble-center-top {
+    background-image: linear-gradient(rgb(150, 150, 150), rgb(123, 135, 148));
+    margin-left: 0 auto;
+    text-align: center;
+    clear: both;
+}
+.bubble-right-top {
+    background-image: linear-gradient(rgb(150, 150, 150), rgb(123, 135, 148));
+    margin-left: 0 auto;
+    text-align: center;
+    clear: both;
+}
+.bubble-bottom-left {
+    background-image: linear-gradient(rgb(150, 150, 150), rgb(123, 135, 148));
+    text-align: center;
+    float: left;
+}
+/*icon images*/
+.python-icon, .sql-icon, .powerbi-icon, .webdev-icon {
+    height: 50px;
+    width: 50px;
+    margin-bottom: 10px;
+}
