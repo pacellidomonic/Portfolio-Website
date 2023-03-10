@@ -269,40 +269,40 @@
       "PackagePath": "staticwebassets\\images\\domonic.jpg"
     },
     {
-      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\favicon.png",
-      "PackagePath": "staticwebassets\\images\\favicon.png"
+      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\github_icon.png",
-      "PackagePath": "staticwebassets\\images\\github_icon.png"
+      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\github_icon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\github_icon.png"
     },
     {
-      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icon-192.png",
-      "PackagePath": "staticwebassets\\images\\icon-192.png"
+      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\icon-192.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\linkedin_icon.png",
-      "PackagePath": "staticwebassets\\images\\linkedin_icon.png"
+      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\linkedin_icon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\linkedin_icon.png"
     },
     {
-      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\mysql_icon.png",
-      "PackagePath": "staticwebassets\\images\\mysql_icon.png"
+      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\mysql_icon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\mysql_icon.png"
     },
     {
-      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\outlook_icon.png",
-      "PackagePath": "staticwebassets\\images\\outlook_icon.png"
+      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\outlook_icon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\outlook_icon.png"
     },
     {
-      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\powerbi_icon.png",
-      "PackagePath": "staticwebassets\\images\\powerbi_icon.png"
+      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\powerbi_icon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\powerbi_icon.png"
     },
     {
-      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\python_icon.png",
-      "PackagePath": "staticwebassets\\images\\python_icon.png"
+      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\python_icon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\python_icon.png"
     },
     {
-      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\webdev_icon.png",
-      "PackagePath": "staticwebassets\\images\\webdev_icon.png"
+      "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\webdev_icon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\webdev_icon.png"
     },
     {
       "Id": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\index.html",

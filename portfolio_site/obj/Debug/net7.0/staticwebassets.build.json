@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dlXkwoL1cOvPUyDJmvlyyyZnfr50ViKVFN9JIOafhxs=",
+  "Hash": "vAdNcQPLYGR6f4t8D9vrvzG58ICONmq1zAQB9qtpzC4=",
   "Source": "portfolio_site",
   "BasePath": "/",
   "Mode": "Root",
@@ -9826,12 +9826,12 @@
       "OriginalItemSpec": "wwwroot\\images\\domonic.jpg"
     },
     {
-      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\favicon.png",
+      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\favicon.png",
       "SourceId": "portfolio_site",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "images/favicon.png",
+      "RelativePath": "images/icons/favicon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9840,15 +9840,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\favicon.png"
+      "OriginalItemSpec": "wwwroot\\images\\icons\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\github_icon.png",
+      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\github_icon.png",
       "SourceId": "portfolio_site",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "images/github_icon.png",
+      "RelativePath": "images/icons/github_icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9857,15 +9857,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\github_icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\icons\\github_icon.png"
     },
     {
-      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icon-192.png",
+      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\icon-192.png",
       "SourceId": "portfolio_site",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "images/icon-192.png",
+      "RelativePath": "images/icons/icon-192.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9874,15 +9874,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icon-192.png"
+      "OriginalItemSpec": "wwwroot\\images\\icons\\icon-192.png"
     },
     {
-      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\linkedin_icon.png",
+      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\linkedin_icon.png",
       "SourceId": "portfolio_site",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "images/linkedin_icon.png",
+      "RelativePath": "images/icons/linkedin_icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9891,15 +9891,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\linkedin_icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\icons\\linkedin_icon.png"
     },
     {
-      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\mysql_icon.png",
+      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\mysql_icon.png",
       "SourceId": "portfolio_site",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "images/mysql_icon.png",
+      "RelativePath": "images/icons/mysql_icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9908,15 +9908,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\mysql_icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\icons\\mysql_icon.png"
     },
     {
-      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\outlook_icon.png",
+      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\outlook_icon.png",
       "SourceId": "portfolio_site",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "images/outlook_icon.png",
+      "RelativePath": "images/icons/outlook_icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9925,15 +9925,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\outlook_icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\icons\\outlook_icon.png"
     },
     {
-      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\powerbi_icon.png",
+      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\powerbi_icon.png",
       "SourceId": "portfolio_site",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "images/powerbi_icon.png",
+      "RelativePath": "images/icons/powerbi_icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9942,15 +9942,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\powerbi_icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\icons\\powerbi_icon.png"
     },
     {
-      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\python_icon.png",
+      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\python_icon.png",
       "SourceId": "portfolio_site",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "images/python_icon.png",
+      "RelativePath": "images/icons/python_icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9959,15 +9959,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\python_icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\icons\\python_icon.png"
     },
     {
-      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\webdev_icon.png",
+      "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\images\\icons\\webdev_icon.png",
       "SourceId": "portfolio_site",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "images/webdev_icon.png",
+      "RelativePath": "images/icons/webdev_icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9976,7 +9976,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\webdev_icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\icons\\webdev_icon.png"
     },
     {
       "Identity": "C:\\Users\\Domonic\\Portfolio\\portfolio_site\\wwwroot\\index.html",

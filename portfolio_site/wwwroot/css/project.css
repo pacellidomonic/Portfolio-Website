@@ -6,6 +6,9 @@
     margin-top: 13px;
     font-family: 'Libre Baskerville', serif;
 }
+.table {
+    margin-bottom: 80px;
+}
 th, td {
     padding: 4px;
     text-align: left;

@@ -16,64 +16,135 @@
     float: left;
     color: #000000;
 }
-
+h1 {
+    font-family: 'Libre Baskerville', serif;
+}
 h2 {
     font-size: 25px;
     font-weight: bold;
     font-family: 'Playfair Display SC', serif;
 }
+p {
+    font-size: 16px;
+}
 .email-link {
     text-decoration: none;
 }
 
+.extra-info {
+    margin-bottom: 80px;
+}
+
 /*bubbles conatiner*/
 .bubbles {
-    height: 33.3%;
+    min-height: 33.3%;
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    border-bottom:2px solid black;
+    margin-bottom: 20px;
 }
 .bubble-name {
+    font-family: 'Noto Serif Lao', serif;
     font-weight: bold;
+    font-size: 18px;
 }
 .no-margin {
+    font-family: 'Noto Serif Lao', serif;
     margin-bottom: 0px;
     font-weight: bold;
+    font-size: 18px;
 }
 .bubble-left-top, .bubble-center-top, .bubble-right-top, .bubble-bottom-left{
-    width: 23.5%;
-    margin-right: 10px;
+    width: 25%;
     padding: 20px;
-    margin-bottom: 12px;
-    border-radius: 15px;
-    height: 220px;
-    border-bottom: 5px solid rgb(0, 0, 0);
-}
-.bubble-left-top {
-    background-image: linear-gradient(rgb(150, 150, 150), rgb(123, 135, 148));
-    text-align: center;
+    margin-bottom: 20px;
+    height: 180px;
 }
 .bubble-center-top {
-    background-image: linear-gradient(rgb(150, 150, 150), rgb(123, 135, 148));
     margin-left: 0 auto;
-    text-align: center;
     clear: both;
 }
 .bubble-right-top {
-    background-image: linear-gradient(rgb(150, 150, 150), rgb(123, 135, 148));
     margin-left: 0 auto;
-    text-align: center;
     clear: both;
 }
 .bubble-bottom-left {
-    background-image: linear-gradient(rgb(150, 150, 150), rgb(123, 135, 148));
-    text-align: center;
+    margin-left: auto;
     float: left;
 }
 /*icon images*/
 .python-icon, .sql-icon, .powerbi-icon, .webdev-icon {
-    height: 50px;
-    width: 50px;
-    margin-bottom: 10px;
+    height: 55px;
+    width: 55px;
+    margin-bottom: 1px;
+    margin-right: 15px;
+    float: left;
 }
+@media (max-width: 2830px) {
+    .bubbles {
+        padding-bottom: 40px;
+    }
+}
+
+@media (max-width: 1830px) {
+        .bubbles {
+            padding-bottom: 70px;
+        }
+}
+
+@media (max-width: 1680px) {
+    .bubbles {
+        flex-direction: column;
+        padding-bottom: 50px;
+      }
+      .bubble-left-top, .bubble-center-top, .bubble-right-top, .bubble-bottom-left {
+          width: 100%;
+          height: 100px;
+          margin-bottom: 10px;
+      }
+      .bubble-right-top {
+          margin-bottom: 5px;
+          margin-top: 0;
+      }
+      .bubble-bottom-left {
+          margin-top: 30px;
+      }
+}
+
+@media (max-width: 1200px) {
+    .bubbles {
+        flex-direction: column;
+        padding-bottom: 50px;
+      }
+      .bubble-left-top, .bubble-center-top, .bubble-right-top, .bubble-bottom-left {
+          width: 100%;
+          height: 100px;
+          margin-bottom: 50px;
+      }
+      .bubble-right-top {
+          margin-bottom: 5px;
+          margin-top: 0;
+      }
+      .bubble-bottom-left {
+          margin-top: 80px;
+      }
+}
+
+@media (max-width: 950px) {
+    .bubbles {
+      flex-direction: column;
+      padding-bottom: 20px;
+    }
+    .bubble-left-top, .bubble-center-top, .bubble-right-top, .bubble-bottom-left {
+        width: 100%;
+        height: 70px;
+        margin-bottom: 90px;
+    }
+    .bubble-right-top {
+        margin-bottom: 50px;
+    }
+    .bubble-bottom-left {
+        margin-top: 80px;
+    }
+  }
