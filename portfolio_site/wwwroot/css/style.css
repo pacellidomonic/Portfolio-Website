@@ -27,7 +27,7 @@ h1 {
 h2 {
     font-size: 25px;
     font-weight: bold;
-    font-family: 'Playfair Display SC', serif;
+    font-family: 'Noto Serif Lao', serif;
 }
 p {
     font-size: 16px;
@@ -100,6 +100,13 @@ p {
 .header-text {
     float: left;
     color: #000000;
+}
+
+/*project images*/
+.project-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 @media (max-width: 2830px) {
     .bubbles {
