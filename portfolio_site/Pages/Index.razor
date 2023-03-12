@@ -1,6 +1,5 @@
 ﻿@page "/"
 @using Microsoft.AspNetCore.Components.Web
-@inject IJSRuntime JSRuntime
 
 <head>
     <!--Stylesheets-->
@@ -9,8 +8,37 @@
 
     <div class="header-container">
         <h1 class="title">Portfolio</h1>
-        <h1 class="header-text">Welcome to my portfolio website!</h1> 
     </div>
+    <div class="portfolio-intro">
+        <p>I have a background in Computer Science and experience using PowerBi, SQL and Python to create data projects. 
+            With this background I have developed a strong foundation in data analysis and visualization</p>
+    </div>
+        <!--bubbles-->        
+        <div class="bubbles">
+            <div class=bubble-left-top>
+                <img class="python-icon" src="images/icons/python_icon.png" alt="Python Icon">
+                <p class="bubble-name">Python</p>
+                <p>I utilize two key Python libraries, Pandas and NumPy, to comprehend and clean data. 
+                    These libraries enable me to efficiently analyze and manipulate data, ensuring that the data is ready for visualization.</p>
+            </div>
+            <div class=bubble-center-top>
+                <img class="sql-icon" src="images/icons/mysql_icon.png" alt="SQL Icon">
+                <p class="bubble-name">mySQL</p>
+                <p>By leveraging my SQL skills, I aim to develop queries and ETL processes that smoothes the way for the extraction and transformation of data for visualization purposes.</p>
+            </div>
+            <div class=bubble-right-top>
+                <img class="powerbi-icon" src="images/icons/powerbi_icon.png" alt="PowerBi Icon">
+                <p class="bubble-name">PowerBi</p>
+                <p>My tool of choice for creating data visualization dashboards is Power BI. 
+                    To further enhance the visualizations, I utilize the DAX language to create custom measures based on the data. 
+                    These measures can then be integrated into the visualizations, which can be styled according to my preferences.</p>
+            </div>
+            <div class=bubble-bottom-left>
+                <img class="webdev-icon" src="images/icons/webdev_icon.png" alt="WebDev Icon">
+                <p class="no-margin">Web</p><p class="bubble-name">Development</p>
+                <p>My goal as a front-end web developer is to that users enjoy using the website and find it easy to navigate and use.</p>
+            </div>
+        </div>
 </head>
     
 <body>

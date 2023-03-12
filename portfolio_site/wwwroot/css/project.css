@@ -6,6 +6,10 @@
     margin-top: 13px;
     font-family: 'Libre Baskerville', serif;
 }
+h2 {
+    font-size: 25px;
+    font-family: 'Libre Baskerville', serif;
+}
 .table {
     margin-bottom: 80px;
 }
